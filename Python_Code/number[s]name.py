@@ -58,7 +58,7 @@ def boo (n):
         out = out + (dictab[n])
     return(out)
 
-g=int(input('enter the number that is to be named :'))
+g=int(input('Enter The Number That Is To Be Named :'))
 
 result = boo(g)
 
